@@ -15,7 +15,6 @@
 
 .navbar .collapse .items {
     display: flex;
-    flex-direction: column;
 }
 
 .navbar .collapse .items .item .link {
