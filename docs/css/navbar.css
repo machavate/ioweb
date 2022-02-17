@@ -68,7 +68,7 @@
 }
 
 .navbar .collapse .head .close {
-    background-image: url("../../img/close_black_24dp.svg");
+    background-image: url("../img/close_black_24dp.svg");
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: center;
