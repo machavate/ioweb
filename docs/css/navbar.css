@@ -30,9 +30,6 @@
     background-position: center;
     box-shadow: 0 0 2px rgb(51, 94, 234);
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='1' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
 }
 
 .navbar .collapse {
@@ -240,17 +237,4 @@
         max-height: unset;
         transition-duration: 0ms;
     }
-}
-
-.navbar .collapse .items {
-    display: flex;
-    flex-direction: column;
-}
-
-.navbar .collapse .items .item .link {
-    padding: 1rem;
-}
-
-@media (min-width: 720px) {
-    
 }
