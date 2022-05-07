@@ -1,4 +1,10 @@
 
+*{
+    margin:0;
+    padding: 0;
+  
+}
+
 :root {
     --navbar-brand-color: rgb(51, 94, 234);
     --navbar-background-color: rgb(255, 255, 255);
