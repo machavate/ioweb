@@ -1,5 +1,38 @@
+
 *{
     margin:0;
     padding: 0;
   
+}
+
+:root {
+    --navbar-brand-color: rgb(51, 94, 234);
+    --navbar-background-color: rgb(255, 255, 255);
+    --navbar-link-color: rgb(85, 85, 85);
+    --navbar-mobile-height: 4rem;
+    --navbar-desktop-height: 4rem;
+    --font-sans-serif: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --font-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    --gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+    --body-font-family: Inter,sans-serif;
+}
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
 }
